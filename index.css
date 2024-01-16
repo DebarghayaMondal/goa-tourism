@@ -16,13 +16,13 @@
 
 .smalltext {
     color: #9aa5b1;
-    font-size: 12px;
+    font-size: 20px;
 }
 
 .img {
-    height: 96px;
-    width: 96px;
-    margin: 5px;
+    height: 200px;
+    width: 200px;
+    margin: 50px;
 }
 
 .embed {
